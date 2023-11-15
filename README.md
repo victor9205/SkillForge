@@ -41,6 +41,21 @@ Agradecemos por fazer parte deste projeto que visa transformar a maneira como as
 
 **Equipe de Desenvolvimento - SkillForge: Plataforma de Desenvolvimento Profissional para Software Houses**
 
+## Licença
+
+SkillForge é licenciado nos termos da [Licença Apache 2.0](https://opensource.org/licenses/Apache-2.0), uma licença de código aberto permissiva que permite a você:
+
+- **Uso:** Você tem a liberdade de usar o software para qualquer finalidade, seja pessoal, acadêmica ou comercial.
+
+- **Modificação:** Você pode modificar o código-fonte, adaptá-lo às suas necessidades e criar trabalhos derivados.
+
+- **Distribuição:** Pode distribuir sua versão modificada ou não modificada do SkillForge.
+
+- **Sublicenciamento:** Pode conceder uma sublicença a outros sob os mesmos termos da Licença Apache.
+
+Esta licença foi projetada para ser flexível e aberta, promovendo a colaboração e o compartilhamento de software em uma comunidade ampla. Consulte o texto completo da [Licença Apache 2.0](https://opensource.org/licenses/Apache-2.0) para mais detalhes.
+
+
 # English
 
 # SkillForge: Professional Development Hub for Software Houses
@@ -82,6 +97,19 @@ Thank you for being part of this project that aims to transform how Software Hou
 
 **Development Team - SkillForge: Professional Development Hub for Software Houses**
 
+## License
+
+SkillForge is licensed under the terms of the [Apache License 2.0](https://opensource.org/licenses/Apache-2.0), a permissive open-source license that allows you to:
+
+- **Use:** You are free to use the software for any purpose, whether personal, academic, or commercial.
+  
+- **Modify:** You can modify the source code, adapt it to your needs, and create derivative works.
+
+- **Distribute:** You can distribute your modified or unmodified version of SkillForge.
+
+- **Sublicense:** You can grant a sublicense to others under the same terms as the Apache License.
+
+This license is designed to be flexible and accommodating, promoting collaboration and the sharing of software across a broad community. Please see the full text of the [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) for more details.
 
 # Technologies used:
 
